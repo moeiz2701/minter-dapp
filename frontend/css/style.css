@@ -6,8 +6,8 @@
 
 :root {
   --font-primary: "Lucida Console";
-  --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
+  --font-secondary: "Lucida Console", serif;
+  
   --bg-color: #1f2227;
   --bg-color-transparent: #9fa5b080;
   --font-color: #ffffff;
