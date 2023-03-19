@@ -2,7 +2,7 @@ const contractAddress = "0x46Dd4b3d53E1cEE94eD6597C6E82aFFe65AAF8dC"; // Replace
 const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "LONELY PANDAS STORE";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h2 = " ";
 const welcome_p = 'If it keeps saying waiting for transaction then please check your wallet or your opensea account, nfts may already be minted';
 const h1_presale_coming_soon = "Phase 1 Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
